@@ -1,2 +1,2 @@
 # EssentialsCloud
-hhttps://essentialscloud.vercel.app/
+https://essentialscloud.vercel.app/
